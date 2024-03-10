@@ -1,0 +1,3 @@
+127.0.0.1 - - [08/Mar/2024:08:41:40 +0100] "GET / HTTP/1.1" 301 273 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0"
+127.0.0.1 - - [08/Mar/2024:08:42:24 +0100] "GET /wordpress/ HTTP/1.1" 404 490 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0"
+127.0.0.1 - - [08/Mar/2024:08:42:24 +0100] "GET /favicon.ico HTTP/1.1" 404 489 "http://localhost:8090/wordpress/" "Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0"
